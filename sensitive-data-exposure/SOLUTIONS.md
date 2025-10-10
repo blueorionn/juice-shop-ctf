@@ -25,3 +25,17 @@ Find the endpoint that serves usage data to be scraped by a popular monitoring s
 The lab indicates that the **Prometheus metric system** is being used. The Prometheus metric generally serves metrics data in `/metrics`. Visit the URL to solve the challenge.
 
 ![Exposed Metrics Solved](img/exposed-metrics-solved.png)
+
+## 3.Exposed credentials
+
+### 3.1.Objective
+
+A developer was careless with hardcoding unused, but still valid credentials for a testing account on the client-side.
+
+### 3.2.Solution
+
+After inspecting all the JavaScript files from the source, a **username** and **password** were found hardcoded in the `main.js` file on lines `11366` and `11367`.
+
+![Username and Password](img/username-and-password.png)
+
+![Exposed Credentials Solved](img/exposed-credentials-solved.png)

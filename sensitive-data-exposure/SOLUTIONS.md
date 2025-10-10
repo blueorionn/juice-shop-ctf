@@ -13,3 +13,15 @@ The challenge requires a **confidential document** to solve it. After a little b
 ![Files in /ftp](img/files-in-ftp-path.png)
 
 ![Confidential Document Lab Solved](img/confidential-document-solved.png)
+
+## 2.Exposed Metrics
+
+### 2.1.Objective
+
+Find the endpoint that serves usage data to be scraped by a popular monitoring system.
+
+### 2.2.Solution
+
+The lab indicates that the **Prometheus metric system** is being used. The Prometheus metric generally serves metrics data in `/metrics`. Visit the URL to solve the challenge.
+
+![Exposed Metrics Solved](img/exposed-metrics-solved.png)

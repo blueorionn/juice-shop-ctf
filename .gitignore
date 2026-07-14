@@ -14,10 +14,7 @@ logs
 *.pyc
 __pycache__/
 
-# testing
-.pytest_cache/
-.coverage
-htmlcov/
-
-# Ignore temp
-temp
+# exclude folders
+temp/
+todo/
+.codewhale

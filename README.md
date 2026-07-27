@@ -2,7 +2,7 @@
 
 This repository contains solutions and walkthroughs for the OWASP Juice Shop vulnerable application.
 
-![Home Page](img/homepage.png)
+![Score Board](img/score-board.png)
 
 ## About OWASP Juice Shop
 

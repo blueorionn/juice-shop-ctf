@@ -9,7 +9,7 @@ Log in with MC SafeSearch's original user credentials without applying SQL Injec
 Log in as admin with the following credentials.
 
 ```text
-username: admin@juice-sh.op
+email: admin@juice-sh.op
 password: admin123
 ```
 
@@ -27,6 +27,13 @@ If you read the lyrics of that song [(https://genius.com/Collegehumor-protect-ya
 *`'Cause I was tricky and replaced some vowels with zeroes`*
 
 **From this, you can deduce that the password may be `Mr. N00dles`.**
+
+Now logout from **admin** account and login with the following credential to solve the lab:
+
+```text
+email: mc.safesearch@juice-sh.op
+password: Mr. N00dles
+```
 
 ![Mc Safe Search Credentials](img/mc-safe-search-credentials.png)
 

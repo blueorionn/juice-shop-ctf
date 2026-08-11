@@ -13,6 +13,8 @@ testingUsername = 'testing@juice-sh.op';
 testingPassword = 'IamUsedForTesting';
 ```
 
+Login with the following credential to solve the challenge.
+
 ![Username and Password](img/username-and-password.png)
 
 ![Exposed Credentials Solved](img/exposed-credentials-solved.png)

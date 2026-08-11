@@ -20,7 +20,7 @@ When you post your review to that product, the application issues a **PUT** requ
 
 ![Post Review](img/post-review.png)
 
-Let's change the author email to check if we can forge review. You can find emails of other registered users in the [admin section](./admin-section.md).
+Let's change the author email to check if we can forge review. You can find emails of other registered users in the [admin section](./02_Admin-section.md).
 
 ![Forged Review](img/forged-review.png)
 
